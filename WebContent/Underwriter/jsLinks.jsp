@@ -1,0 +1,55 @@
+
+		
+		<script src="../js/jquery-1.11.3.js"></script>
+		
+		<!-- <script src="../js/jquery.min.js"></script> -->
+        
+        <script src="../js/bootstrap.min.js"></script>
+        
+     
+
+        <!-- chart js -->
+        <!-- bootstrap progress js -->
+        
+        <script src="../js/nicescroll/jquery.nicescroll.min.js"></script>
+        
+        <!-- icheck -->
+        
+        <script src="../js/icheck/icheck.min.js"></script>
+        
+        <!-- tags -->
+        
+        <script src="../js/tags/jquery.tagsinput.min.js"></script>
+        <!-- switchery -->
+        
+        <script src="../js/switchery/switchery.min.js"></script>
+        <!-- daterangepicker -->
+        
+        <script type="text/javascript" src="../js/moment.min2.js"></script>
+        <script type="text/javascript" src="../js/datepicker/daterangepicker.js"></script>
+        <!-- richtext editor -->
+        
+        <script src="../js/editor/bootstrap-wysiwyg.js"></script>
+        <script src="../js/editor/external/jquery.hotkeys.js"></script>
+        <script src="../js/editor/external/google-code-prettify/prettify.js"></script>
+        <!-- select2 -->
+        
+        <script src="../js/select/select2.full.js"></script>
+        <!-- form validation -->
+        
+        <script type="text/javascript" src="../js/parsley/parsley.min.js"></script>
+        <!-- textarea resize -->
+        
+        <script src="../js/textarea/autosize.min.js"></script>
+         <!-- Autocomplete -->
+         
+        <script type="text/javascript" src="../js/autocomplete/countries.js"></script>
+        <script src="../js/autocomplete/jquery.autocomplete.js"></script>
+          
+          <script src="../js/custom.js"></script>
+          
+           <script src="../js/jquery.dataTables.js"></script>
+           
+          
+           
+           <script src="../js/shCore.js"></script>
